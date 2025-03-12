@@ -1,0 +1,3 @@
+Sorry, I used ChatGPT to write the code because I don’t know how to use OpenCV and Python.
+
+I came up with the approach of differentiating using color, but I didn’t know how to implement it, so I used ChatGPT for that.
